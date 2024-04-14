@@ -1,0 +1,27 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+*.opendb
+*.db
+*.pdb
+*.idb
+
+# Fortran module files
+*.mod
+*.smod
+
+# Executables
+*.out
+*.app
+*.cso
+*.obj
+*.nupkg
